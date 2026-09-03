@@ -10,7 +10,6 @@ warnings.filterwarnings("ignore")
 
 st.set_page_config(
     page_title="Vegetation Analyser",
-    page_icon="🌿",
     layout="wide"
 )
 
